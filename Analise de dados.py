@@ -3,7 +3,7 @@ import plotly.express as px
 from IPython.display import display
 
 #Visualizando os dados da tabela
-tabela = pd.read_csv("C:/Users/KELVIN/Desktop/Analise de Dados com Python/cancelamentos.csv")
+tabela = pd.read_csv("cancelamentos.csv")
 display(tabela)
 display(tabela.info)
 
