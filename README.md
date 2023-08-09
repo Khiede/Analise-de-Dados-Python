@@ -1,4 +1,4 @@
-# Analise-de-Dados-Python
+# Analise de Dados Utilizando Python
 Projeto python para analise de dados utilizando as bibliotecas: pandas e plotly express.
 
 Esse projeto foi feito com o intuito de resolver os problemas que uma empresa fantasia com mais de 800 mil clientes está enfrentando.
